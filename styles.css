@@ -1,0 +1,28 @@
+h1 {
+    text-align:  center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+div {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    background-color: lightgreen
+}
